@@ -24,6 +24,7 @@ body {
 #title {
     display: block;
     color: #12005e;
+    font-size: 1.2em;
     padding-bottom: 1em;
     font-weight: bold;
 }
